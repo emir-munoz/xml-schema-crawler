@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+This schema is for the audio creator admin metadata in the DRS.
+Harvard University Library.
+--><xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://hul.harvard.edu/ois/xml/ns/drs/audioCreatorSchema.html" targetNamespace="http://hul.harvard.edu/ois/xml/ns/drs/audioCreatorSchema.html" elementFormDefault="qualified" version="1.0.0">
+  
+   <xs:element name="creator" type="xs:string"/>
+
+</xs:schema>
